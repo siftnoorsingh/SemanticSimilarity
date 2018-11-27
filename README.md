@@ -1,7 +1,7 @@
 # SemanticSimilarity
 
 
-Textual Entailment may help with determining semantic similarity between sentences. 
+Textual Entailment may help with determining semantic similarity between sentences. Textual Entailment is the task of predicting whether a sentence implies the same meaning as another.
 
 * Gensim - Word2vec, Doc2vec and Fasttext
 
@@ -15,6 +15,7 @@ Textual Entailment may help with determining semantic similarity between sentenc
   <li>Continous Skip Gram</li>
   <li><a href="https://nlp.stanford.edu/projects/glove/" data-href="https://nlp.stanford.edu/projects/glove/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--p-strong">GloVe</strong></a></li>
   <li><a href="https://fasttext.cc/" data-href="https://fasttext.cc/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--p-strong">FastText</strong></a></li>
+  <li>Universal Sentence Encoder</li>
 
   
   Read more about GLoVe and FastText in beyond word embeddings 2
@@ -44,5 +45,7 @@ References
   Comparison of FastText and Word2Vec with detailed implementation
 * https://towardsdatascience.com/word-embedding-with-word2vec-and-fasttext-a209c1d3e12c
 * https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a
-  Detailed discussion about different types of Sentence Embeddings(supervised, unsupervised)
+  Detailed discussion about different types of Sentence Embeddings(supervised, unsupervised), details about InferSent,    Universal Sentence Encoder, FastText, ELMo
+* https://github.com/llSourcell/word_vectors_game_of_thrones-LIVE/blob/master/Thrones2Vec.ipynb
+  Semantic Similarity on Game of Thrones Data using Gensim
 * https://towardsdatascience.com/beyond-word-embeddings-part-1-an-overview-of-neural-nlp-milestones-82b97a47977f
