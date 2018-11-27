@@ -13,7 +13,7 @@ Textual Entailment may help with determining semantic similarity between sentenc
 <ul>
   <li>Word2Vec (CBOW, Continous Skip Gram)</li>
   <li><a href="https://nlp.stanford.edu/projects/glove/" data-href="https://nlp.stanford.edu/projects/glove/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--p-strong">GloVe</strong></a></li>
-  <li><a href="https://fasttext.cc/" data-href="https://fasttext.cc/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--p-strong">FastText (Need to try this)</strong></a></li>
+  <li><a href="https://fasttext.cc/" data-href="https://fasttext.cc/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--p-strong">FastText</strong></a> (Need to try this)</li>
   <li>Universal Sentence Encoder</li>
 
   
