@@ -11,17 +11,10 @@ Textual Entailment may help with determining semantic similarity between sentenc
 
 
 CBOW, Continous Skip,GLOVE, FastText 
+<a href="https://nlp.stanford.edu/projects/glove/" data-href="https://nlp.stanford.edu/projects/glove/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--p-strong">GloVe</strong></a>
+<a href="https://fasttext.cc/" data-href="https://fasttext.cc/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--p-strong">FastText</strong></a>
 
-Tools
-
-Gensim
-Word2Vec
-Sci-Kit Learn Bag of Words
-SpaCy Examples
-PyTorch Text
-Allen NLP ELMo
-Hugging Face BERT PyTorch
-Additional Resources
+Read more about GLoVe and FastText in beyond word embeddings 2
 
 <strong class="markup--strong markup--p-strong">Tools</strong></p><ul class="postList"><li name="6106" id="6106" class="graf graf--li graf-after--p"><a href="https://radimrehurek.com/gensim/" data-href="https://radimrehurek.com/gensim/" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">Gensim</a></li><li name="af81" id="af81" class="graf graf--li graf-after--li"><a href="https://radimrehurek.com/gensim/" data-href="https://radimrehurek.com/gensim/" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">Word2Vec</a></li><li name="daaf" id="daaf" class="graf graf--li graf-after--li"><a href="http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html" data-href="http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">Sci-Kit Learn Bag of Words</a></li><li name="7fe6" id="7fe6" class="graf graf--li graf-after--li"><a href="https://spacy.io/usage/examples" data-href="https://spacy.io/usage/examples" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">SpaCy Examples</a></li><li name="78d9" id="78d9" class="graf graf--li graf-after--li"><a href="https://github.com/pytorch/text" data-href="https://github.com/pytorch/text" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">PyTorch Text</a></li><li name="50dd" id="50dd" class="graf graf--li graf-after--li"><a href="https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md" data-href="https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">Allen NLP ELMo</a></li><li name="9e9a" id="9e9a" class="graf graf--li graf-after--li"><a href="https://github.com/huggingface/pytorch-pretrained-BERT" data-href="https://github.com/huggingface/pytorch-pretrained-BERT" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">Hugging Face BERT PyTorch</a></li><li name="47d5" id="47d5" class="graf graf--li graf-after--li"><a href="https://github.com/keon/awesome-nlp" data-href="https://github.com/keon/awesome-nlp" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">Additional Resources</a></li></ul>
 
