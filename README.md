@@ -10,9 +10,11 @@ Textual Entailment may help with determining semantic similarity between sentenc
 * Allen NLP — AllenNLP is an open-source NLP research library, built on PyTorch for developing state-of-the-art deep learning models on a wide variety of linguistic tasks.
 
 
-CBOW, Continous Skip
-<a href="https://nlp.stanford.edu/projects/glove/" data-href="https://nlp.stanford.edu/projects/glove/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--p-strong">GloVe</strong></a>
-<a href="https://fasttext.cc/" data-href="https://fasttext.cc/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--p-strong">FastText</strong></a>
+<ul>
+  <li>CBOW</li>
+  <li>Continous Skip Gram</li>
+  <li><a href="https://nlp.stanford.edu/projects/glove/" data-href="https://nlp.stanford.edu/projects/glove/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--p-strong">GloVe</strong></a></li>
+  <li><a href="https://fasttext.cc/" data-href="https://fasttext.cc/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--p-strong">FastText</strong></a></li>
 
 Read more about GLoVe and FastText in beyond word embeddings 2
 
