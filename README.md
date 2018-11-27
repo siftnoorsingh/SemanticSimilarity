@@ -16,7 +16,8 @@ Textual Entailment may help with determining semantic similarity between sentenc
   <li><a href="https://nlp.stanford.edu/projects/glove/" data-href="https://nlp.stanford.edu/projects/glove/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--p-strong">GloVe</strong></a></li>
   <li><a href="https://fasttext.cc/" data-href="https://fasttext.cc/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--p-strong">FastText</strong></a></li>
 
-Read more about GLoVe and FastText in beyond word embeddings 2
+  
+  Read more about GLoVe and FastText in beyond word embeddings 2
 
 <strong class="markup--strong markup--p-strong">Tools</strong></p>
 <ul class="postList">
@@ -36,12 +37,12 @@ References
 
 * https://towardsdatascience.com/beyond-word-embeddings-part-2-word-vectors-nlp-modeling-from-bow-to-bert-4ebd4711d0ec
 * https://towardsdatascience.com/understand-how-to-transfer-your-paragraph-to-vector-by-doc2vec-1e225ccf102
-Creating embeddings using Doc2Vec, training using a classifier and checking accuracy
+  Creating embeddings using Doc2Vec, training using a classifier and checking accuracy
 * https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/FastText_Tutorial.ipynb
-FastText via Gensim Tutorial
+  FastText via Gensim Tutorial
 * https://markroxor.github.io/gensim/static/notebooks/Word2Vec_FastText_Comparison.html
-Comparison of FastText and Word2Vec with detailed implementation
+  Comparison of FastText and Word2Vec with detailed implementation
 * https://towardsdatascience.com/word-embedding-with-word2vec-and-fasttext-a209c1d3e12c
 * https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a
-Detailed discussion about different types of Sentence Embeddings(supervised, unsupervised)
+  Detailed discussion about different types of Sentence Embeddings(supervised, unsupervised)
 * https://towardsdatascience.com/beyond-word-embeddings-part-1-an-overview-of-neural-nlp-milestones-82b97a47977f
